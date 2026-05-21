@@ -5,4 +5,4 @@ Reset to have random mazes on top left
 Top Right is a small map version to see where you are
 
 
-https://denizcaglarcingoz.github.io/3dMaze/
+https://denniscingoz.github.io/3dMaze/
